@@ -47,3 +47,7 @@ Notes
 
 - We kept the original visual style and timer display, enhancing the algorithm and structure.
 - The weights and starvation limit are adjustable via the sidebar `Advanced` settings for demoability.
+
+Demo
+=====
+Live Link: https://smarttrafficsystem-ycqjmsniqlk9kt43nwp8pr.streamlit.app/
